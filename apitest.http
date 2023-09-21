@@ -1,0 +1,8 @@
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+###
+GET https://dc934379.cloudflare-page-nextjs-618.pages.dev/api/hello
+
+###
+
